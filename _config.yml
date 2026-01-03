@@ -1,0 +1,10 @@
+title: Secure Your Life
+description: >-
+  This is an open sourced slide deck. The presentation can be used when doing training presentations.
+  The presentation targets non-technical, "regular" people who are interested in learning some basic
+  information that'll help them be a little more resilient to scammers and other dangers that exist
+  in our modern, digital world.
+exclude:
+  - reveal.js/
+safe: true
+theme: minima
