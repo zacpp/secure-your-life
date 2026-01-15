@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+qrencode -o images/qr.png -l M -s 6 "https://zacpp.github.io/secure-your-life/presentation.html?view=scroll"
